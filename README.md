@@ -167,7 +167,3 @@ Track:
 ## 📬 Author
 
 **Joncy Keda - AI Developer**
-📧 Add your email
-🔗 Add your LinkedIn
-
----
